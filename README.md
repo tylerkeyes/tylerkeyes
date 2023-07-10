@@ -2,7 +2,7 @@
 I am a software engineer at Moviri looking to grow my skillset and create or contribute to interesting projects.
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyler-keyes-software-engineer/) 
 
 # 💻 Tech Stack:
