@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software engineer looking to grow my skillset and create or contribute to interesting projects.
+I am a software engineer at Moviri looking to grow my skillset and create or contribute to interesting projects.
 
 
 ## 🌐 Socials:
