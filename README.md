@@ -1,8 +1,12 @@
-# 💫 About Me:
-I am a software engineer at Moviri looking to grow my skillset and create or contribute to interesting projects.
+# Tyler Keyes:
+I am a guy looking to understand complex systems, develop my craft, and build cool software.
 
+Fun Facts
+- I work at Moviri as a Software Developer
+- I'm currently learning Rust & Gleam
 
 <!--## 🌐 Socials:-->
+## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyler-keyes-software-engineer/) 
 
 <!--# 💻 Tech Stack:-->
