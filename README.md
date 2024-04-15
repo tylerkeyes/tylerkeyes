@@ -1,5 +1,5 @@
 # Tyler Keyes:
-I am a guy looking to understand complex systems, develop my craft, and build cool software.
+I am a passionate software developer looking to understand complex systems, develop my craft, and build cool software.
 
 Fun Facts
 - I work at Moviri as a Software Developer
