@@ -1,9 +1,6 @@
 # Tyler Keyes:
 I am a passionate software developer looking to understand complex systems, develop my craft, and build cool software.
-
-Fun Facts
-- I work at Moviri as a Software Developer
-- I'm currently learning Rust & Gleam
+I work at Moviri as a Software Developer
 
 <!--## 🌐 Socials:-->
 ## Connect with me:
