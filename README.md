@@ -1,7 +1,7 @@
 # Tyler Keyes:
 I am a passionate software developer looking to understand complex systems, develop my craft, and build cool software.
 
-I work at Moviri as a Software Developer
+I work at Compass as a Software Developer
 
 <!--## 🌐 Socials:-->
 ## Connect with me:
